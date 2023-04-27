@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meigsy
 - 👀 I’m interested in robotics, automation, and machine learning
-- 🌱 I’m currently learning more about computer vision
+- 🌱 I’m currently exploring intelligent autonomous agents using LLMs
 - 💞️ I’m looking to collaborate on anything beneficial to humanity
 - 📫 How to reach me: meigsygithub@fastmail.com
 
